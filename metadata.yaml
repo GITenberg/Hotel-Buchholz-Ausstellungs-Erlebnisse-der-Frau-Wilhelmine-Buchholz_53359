@@ -1,5 +1,8 @@
 _repo: Hotel-Buchholz-Ausstellungs-Erlebnisse-der-Frau-Wilhelmine-Buchholz_53359
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53359-h/images/icover.jpg
 creator:
   author:
     agent_name: Stinde, Julius
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47332'
     url: http://www.gutenberg.org/2009/agents/47332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53359#Hotel-Buchholz-Ausstellungs-Erlebnisse-der-Frau-Wilhelmine-Buchholz
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2016-10-24'
 gutenberg_type: Text
